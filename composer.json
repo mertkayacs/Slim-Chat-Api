@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Message\\":"src/Models/"
+        }
+    },
+    "require": {
+        "slim/slim": "^3.0"
+    }
+}
